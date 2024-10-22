@@ -54,17 +54,6 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:anikmajumder303@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/anik-majumder-9796a52a4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
-###
-
 <h3 align="left" style="color:#4c6ef5;">GitHub Stats</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Anik-64&show_icons=true&theme=calm" alt="GitHub Stats" />
@@ -90,4 +79,12 @@
 <p align="left">
   Whether it's coding, brainstorming new ideas, or exploring the latest tech trends, feel free to reach out or connect with me on LinkedIn or via email. Always excited to collaborate and grow together!
 </p>
+<div align="left">
+  <a href="mailto:anikmajumder303@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/anik-majumder-9796a52a4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
 
