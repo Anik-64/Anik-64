@@ -66,21 +66,21 @@
 ###
 
 <h3 align="left" style="color:#4c6ef5;">GitHub Stats</h3>
-<div align="center" style="background-color:#BDE9E4; padding:10px; border-radius:8px;">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Anik-64&show_icons=true&theme=calm" alt="GitHub Stats" />
 </div>
 
 ###
 
 <h3 align="left" style="color:#4c6ef5;">My Contributions</h3>
-<p align="center" style="background-color:#f0f4f8; padding:10px; border-radius:8px;">
+<p align="left" style="background-color:#f0f4f8; padding:10px; border-radius:8px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anik-64&theme=calm" alt="Contribution Streak" />
 </p>
 
 ###
 
 <h3 align="left" style="color:#4c6ef5;">Top Languages</h3>
-<div align="center" style="background-color:#f0f4f8; padding:10px; border-radius:8px;">
+<div align="left" style="background-color:#f0f4f8; padding:10px; border-radius:8px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik-64&layout=compact&theme=calm" alt="Top Languages" />
 </div>
 
