@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Anik Majumder</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="right" width="400" src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fmedia%2f45dceb640723d72436c427add7966cf8.gif&ehk=HOcZ9tGbH3%2bKOzbcUFIYysoKkcvWAMbYmBYZtC0pHhM%3d">
+<img align="right" width="400" height="300" src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fmedia%2f45dceb640723d72436c427add7966cf8.gif&ehk=HOcZ9tGbH3%2bKOzbcUFIYysoKkcvWAMbYmBYZtC0pHhM%3d">
+
+###
 
 - 🔭 I’m currently working on **Real-Time-Markdown-Editor-with-Node.js**
 
