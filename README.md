@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Real-Time-Markdown-Editor-with-Nodejs**
+- 🔭 I’m currently working on **Real-Time-Markdown-Editor**
 
 - 🌱 I’m currently learning **Nodejs**
 
