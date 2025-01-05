@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Markdown Editor and Preview**
+- 🔭 I’m currently working on **Google OAuth2**
 
 - 🌱 I’m currently learning **Nodejs**
 
