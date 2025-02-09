@@ -6,9 +6,9 @@
 
 ###
 
-- 🔭 I’m currently working on **Movie Management System**
+- 🔭 I’m currently working on **Monthly Time Calculator**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nodejs, AWS, Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
