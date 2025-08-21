@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Monthly Time Calculator**
+- 🔭 I’m currently working on **whatsapp-autosender**
 
 - 🌱 I’m currently learning **Nodejs, AWS, Docker, k8s**
 
