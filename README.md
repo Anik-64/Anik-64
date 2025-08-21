@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **whatsapp-autosender**
 
-- 🌱 I’m currently learning **Nodejs, AWS, Docker, k8s**
+- 🌱 I’m currently learning **Nodejs, AWS, Docker, k8s, Jenkins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
