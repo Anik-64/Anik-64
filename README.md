@@ -1,4 +1,4 @@
-![MasterHead](https://www.bing.com/th/id/OGC.afb17d07919b505cdcf6a97d77ab83d9?pid=1.7&rurl=https%3a%2f%2fmir-s3-cdn-cf.behance.net%2fproject_modules%2f1400%2fbe832922391491.58c25558f0fe7.gif&ehk=Rebrpk6M54PyzCbrenntjO3ovzWUHjL0Vfiew0m%2fkdk%3d)
+<img width="1440" height="360" alt="image" src="https://github.com/user-attachments/assets/9c7a43a7-c0d2-4acb-8c34-d3cc1e56ad78" />
 
 <h1 align="center">Hi 👋, I'm Anik Majumder</h1>
 <h3 align="center">A passionate Backend Engineer & Aspiring DevOps Engineer</h3>
